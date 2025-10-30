@@ -1,6 +1,5 @@
 # ViveProEye_OculomotorLab
-Unity framework for scientific research using HTC Vive Pro Eye and SRanipal SDK. Includes high-frequency eye tracking (120 Hz), gaze-contingent rendering, and experimental tasks for detecting saccades, smooth pursuits, and vergence. The project is the trasposition of the former project github.com/MattiaBarbieri/ViveProEye_OculomotorLab design for HTC Vive Pro Eye. 
-
+Unity framework for scientific research using HTC Vive Pro Eye and SRanipal SDK. Includes high-frequency eye tracking (120 Hz), gaze-contingent rendering, and experimental tasks for detecting saccades, smooth pursuits, and vergence. 
 
 📍 Overview
 This Unity framework is designed to fully exploit the capabilities of the HTC Vive Pro Eye for scientific research in oculomotor behavior. It uses the SRanipal SDK to access high-frequency eye tracking data (120 Hz), enabling precise measurement and analysis of eye movements in immersive virtual reality environments.
