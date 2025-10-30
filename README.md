@@ -68,7 +68,9 @@ The header is automatically written at the start of each recording session.
 
 🧪 Data Analysis
 Collected data can be analyzed using the Python-based tool available at:
-🔗[ XR_Ocular_Movements_Detection]([url](https://github.com/MattiaBarbieri/XR_Ocular_Movements_Detection))
+
+[ XR_Ocular_Movements_Detection]([url](https://github.com/MattiaBarbieri/XR_Ocular_Movements_Detection))
+
 This tool integrates the REMoDNaV (Robust Eye Movement Detection for Natural Viewing) algorithm to automatically detect:
 
 Saccades
