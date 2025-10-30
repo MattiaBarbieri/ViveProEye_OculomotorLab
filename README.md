@@ -26,7 +26,7 @@ Designed to elicit saccadic eye movements.
 Automatically logs eye data during the task.
 
 2. SmoothPursuitsTask
-
+ 
 Displays a moving sphere oscillating horizontally.
 Designed to elicit smooth pursuit movements.
 Eye data is recorded while the subject tracks the moving target.
@@ -69,7 +69,7 @@ The header is automatically written at the start of each recording session.
 🧪 Data Analysis
 Collected data can be analyzed using the Python-based tool available at:
 
-[ XR_Ocular_Movements_Detection]([url](https://github.com/MattiaBarbieri/XR_Ocular_Movements_Detection))
+https://github.com/MattiaBarbieri/XR_Ocular_Movements_Detection
 
 This tool integrates the REMoDNaV (Robust Eye Movement Detection for Natural Viewing) algorithm to automatically detect:
 
